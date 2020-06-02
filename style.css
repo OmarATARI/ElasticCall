@@ -1,0 +1,13 @@
+body, html{
+  text-align: center;
+  font-family: "Arial Rounded MT Bold";
+  font-size: 25px;
+}
+
+#cluster_name{
+  font-weight: bold;
+}
+
+#cluster_version{
+  font-weight: bold;
+}
